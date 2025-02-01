@@ -1,5 +1,5 @@
 # codexquid
 
 <div align="left">
-  <img width="400px" src="https://github.com/user-attachments/assets/b960b3ce-b03b-4f7d-8b02-5e08e8ca68c7" >
+  <img width="400px" src="https://github.com/user-attachments/assets/6357d72c-630b-4092-bc9a-9dae2f3f3117" >
 </div>
